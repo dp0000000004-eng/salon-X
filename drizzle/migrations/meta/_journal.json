@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789876948433,
+      "tag": "0000_add_manual_payment_methods",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789877032203,
+      "tag": "0001_categories_locations_manual_payments_loyalty_reviews",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789877076727,
+      "tag": "0002_allow_district_location_level",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789877127316,
+      "tag": "0003_enable_realtime_publication",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790037085542,
+      "tag": "0004_security_hardening_definer_grants_avatars_bookings_subscriptions",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790037569508,
+      "tag": "0005_allow_anon_super_admin_count",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790124097322,
+      "tag": "0006_security_hardening_definer_view_contacts_realtime",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790209227825,
+      "tag": "0007_realtime_payouts",
+      "breakpoints": true
+    }
+  ]
+}
